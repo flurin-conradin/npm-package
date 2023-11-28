@@ -1,0 +1,20 @@
+{
+  "name": "@flurin-private-npm/flurins-funky-package",
+  "version": "1.0.0",
+  "description": "test publishing of the package",
+  "main": "src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "artifactregistry-login": "npx google-artifactregistry-auth"
+  },
+  "keywords": [
+    "test",
+    "funky"
+  ],
+  "author": "flurin-conradin",
+  "license": "ISC",
+  "exports": {
+    "import": "./src/main.js"
+  },
+  "type": "module"
+}
