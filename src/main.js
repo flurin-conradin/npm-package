@@ -2,7 +2,7 @@ import cowsay from "cowsay";
 
 export function helloNpm() {
     return cowsay.say({
-        text : "Hello Sandor",
+        text : "Hello Sándor",
         e : "oO",
         T : "U "
     })
