@@ -1,6 +1,6 @@
 {
   "name": "@flurin-private-npm/flurins-funky-package",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test publishing of the package",
   "main": "src/main.js",
   "scripts": {
