@@ -1,3 +1,9 @@
+import cowsay from "cowsay";
+
 export function helloNpm() {
-    return "hello NPM"
+    return cowsay.say({
+        text : "Hello Sandor",
+        e : "oO",
+        T : "U "
+    })
 }

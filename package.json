@@ -16,5 +16,8 @@
   "exports": {
     "import": "./src/main.js"
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "cowsay": "^1.5.0"
+  }
 }
